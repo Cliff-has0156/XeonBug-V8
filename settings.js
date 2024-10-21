@@ -58,15 +58,15 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
-    group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    done: 'fini!',
+    prem: 'sa k use bay seulement chef mwen ANONYMOUS',
+    admin: 'sa k use seul le bot lan Owner',
+    botAdmin: 'sa k use seulement lè le grand ANONYMOUS ADM,
+    owner: 'sa k use seulement par Sukuna ANONYMOUS',
+    group: 'commande sa c pou group selman',
+    private: 'sa seulement pou chat priver',
+    wait: 'Fon ti tann Le grand Boss ANONYMOUS',    
+    error: 'erè',
 }
 
 global.thumb = fs.readFileSync('./GlobalMedia/thumb.jpg')
